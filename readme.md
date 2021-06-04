@@ -1,7 +1,7 @@
 # hadoop-common-bin
 windows需要的运行库（64位）
 
-***Changelog***
+***Changelogs***
 
 
 
